@@ -111,7 +111,7 @@ def process_collision(obj_list):
         # If overlap, add to list
         if cur_end > next_start:
             min_idx = min(y_sorted[i], y_sorted[i + 1])
-            may_idx = max(y_sorted[i], y_sorted[i + 1])
+            max_idx = max(y_sorted[i], y_sorted[i + 1])
             y_overlap.append((min_idx, max_idx))
 
     # Check if there's a common element in x and y overlaps
