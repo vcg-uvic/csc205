@@ -13,3 +13,5 @@ is by [Ronincmc](https://commons.wikimedia.org/wiki/User:Ronincmc) and is CC-BY-
 
 images/matterhorn.jpg is by Kwang Moo Yi and is in the public domain.
 
+[images/fruit.jpg](https://commons.wikimedia.org/wiki/File:Fruit_Bowl_(4087276924).jpg) is by [Vegan Feast Catering](https://www.flickr.com/people/25128194@N02) and is CC-BY 2.0 Generic
+
