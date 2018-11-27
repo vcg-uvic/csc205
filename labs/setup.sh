@@ -1,7 +1,7 @@
-mkdir $HOME/Desktop/lab7
-cd $HOME/Desktop/lab7
+mkdir $HOME/Desktop/lab8
+cd $HOME/Desktop/lab8
 git clone https://github.com/vcg-uvic/csc205
-cd csc205/labs/lab7
+cd csc205/labs/lab8
 
 pip3 install virtualenv --user
 $HOME/Library/Python/3.7/bin/virtualenv venv -p $(which python3)
