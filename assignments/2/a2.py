@@ -91,7 +91,7 @@ if __name__ == "__main__":
         # TODO: Set the canvas size based on `input.txt`. (1 mark)
         # Hint: use some of your assignment 1 code here.
 
-        canvas = np.ones((200, 200), dtype=np.float32)
+        canvas = np.ones((600, 600), dtype=np.float32)
 
         # ----------------------------------------------------------------------
 
