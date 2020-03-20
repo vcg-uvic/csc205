@@ -5,7 +5,7 @@ import numpy as np
 from numpy.fft import fftshift, fft2, ifft2
 
 NUM_BIN = 32
-NUM_COLOR = 16
+NUM_COLOR = 32
 TODO = None
 
 
